@@ -2,12 +2,12 @@
 Example Project for Groundless Editor Tools
 
 
-##Table Of Content
+## Table Of Content
 1.Usage
 2.Credits
 3.License
 
-###Usage
+### Usage
 
 Go to Game->ItemCreation  in the Unity Menu
 
