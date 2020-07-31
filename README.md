@@ -3,9 +3,11 @@ Example Project for Groundless Editor Tools
 
 
 ## Table Of Content
-1.Usage
-2.Credits
-3.License
+1.Usage 
+
+2.Credits 
+
+3.License 
 
 ### Usage
 
