@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.groundless.editortool": "https://github.com/KuKKilicious/GroundlessEditorTools.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.0",
@@ -38,5 +39,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.groundless.editortool": {
+      "revision": "HEAD",
+      "hash": "78518a4e8ad2473170c8419f0519d5a7e97aec15"
+    }
   }
 }
