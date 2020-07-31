@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ed5eaf934a3fa45943622de34c8734, type: 3}
+  m_Name: SmallDice
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2800000, guid: 6b6fd3f59ae45864286df43a2671b9f8, type: 3}
+  Name: Small Dice
+  Effects:
+  - {fileID: 11400000, guid: e0be3ac3105cfd94f970c2c95408f993, type: 2}
+  ShortDescription: Reroll drops
+  FullDescription: On Activation, reroll all item orbs on the current platform
+  EffectExplanations: 
+  Category: 2
+  Rarity: 1

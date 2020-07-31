@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ed5eaf934a3fa45943622de34c8734, type: 3}
+  m_Name: SmallDagger
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2800000, guid: a59d6029d282ea148bf57966b0c2401e, type: 3}
+  Name: Small Dagger
+  Effects:
+  - {fileID: 11400000, guid: 11bb2ae8dc5db6d478133b9c40fc0c6c, type: 2}
+  ShortDescription: Damage +30
+  FullDescription: Grants 30 base Damage
+  EffectExplanations: 
+  Category: 0
+  Rarity: 0
